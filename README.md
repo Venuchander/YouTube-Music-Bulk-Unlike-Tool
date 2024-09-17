@@ -43,6 +43,10 @@ This script adds a button to the YouTube Music "Liked songs" playlist page that,
 - The unliking process may take a while if you have a large number of liked songs.
 - Using automated scripts may potentially violate YouTube's terms of service. Use at your own risk.
 
+## GreasyFork Link
+
+You can also find and install the script from [GreasyFork](https://greasyfork.org/en/scripts/508902-youtube-music-bulk-unlike-tool).
+
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/Venuchander/YouTube-Music-Bulk-Unlike-Tool/issues) if you want to contribute.
