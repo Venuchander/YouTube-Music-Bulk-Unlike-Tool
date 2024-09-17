@@ -49,4 +49,4 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Venuchander/YouTube-Music-Bulk-Unlike-Tool/blob/main/LICENSE)
